@@ -1,0 +1,13 @@
+var a = 3;
+var b = 17;
+var c = 12;
+
+var a = 3;
+a += 12;
+console.log(a);
+var b = 17;
+b += 9;
+console.log(b);
+var c = 12;
+c += 7;
+console.log(c);
